@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
-## Date: 28-04-25
-phyton
+## Date: 09-05-25
+python
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
 
